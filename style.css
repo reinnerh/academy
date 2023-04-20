@@ -1,5 +1,5 @@
 body{
-    background-color: cyan;
+    background-color: rgb(255, 0, 0);
 
     height: 100vh;
     display: flex;
@@ -11,6 +11,6 @@ body{
 }
 
 .h1{
-    color: rgb(255, 0, 212);
+    color: rgb(153, 153, 153);
     font-size: 500px;
 }
