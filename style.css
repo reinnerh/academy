@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 0, 0);
+    background-color: grey;
 
     height: 100vh;
     display: flex;
@@ -10,7 +10,13 @@ body{
     flex-direction: column;
 }
 
-.h1{
-    color: rgb(153, 153, 153);
-    font-size: 500px;
+h1{
+    color: blue;
+    font-size: 87PX;
+}
+
+h2{
+
+    color: red;
+    font-size:52px;
 }
